@@ -67,7 +67,12 @@ Obesity_Level or Malnutrition_Level
 
 
 
+
+
 📈 Visualizations & Insights
+
+
+
 📌 Distribution Analysis
 Histograms and box plots of obesity and malnutrition across regions and age groups.
 
