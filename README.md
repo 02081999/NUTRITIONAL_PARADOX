@@ -82,7 +82,4 @@ Line plots showing obesity/malnutrition over time by region.
 
 
 🔖 Tags
-
-
-
-
+`#Python` `#Pandas` `#SQL(SQLite / MySQL / PostgreSQL)` `#Data Cleaning` `#Feature Engineering` `#Data Visualization` `#Data Visualization`  `#Matplotlib / Seaborn / Plotly `  `#Power BI `  `#pycountry `  `#Public Health Data ` 
